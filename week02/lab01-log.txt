@@ -1,0 +1,16 @@
+  220  pwd
+  221  python3 -m venv .venv
+  222  ls
+  223  ls -a
+  224  source .venv/bin/activate
+  225  which python3
+  226  pip list
+  227  pip install requests
+  228  pip list
+  229  deactivate\nwhich python3
+  230  man ls
+  231  pwd
+  232  cd ~
+  233  cd coding-cafe/README.md
+  234  history
+  235  python3
